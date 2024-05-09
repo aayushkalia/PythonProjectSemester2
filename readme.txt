@@ -1,5 +1,8 @@
 # Voice Assistant Project
-
+Made by-
+Aayush Kalia    23124002
+Akashdeep Singh 23124009
+Dhruv Singla    23124031
 Welcome to the Voice Assistant Project! This Python-based voice assistant performs various tasks such as searching the web, playing music, providing weather information, and more.
 
 ## Table of Contents
@@ -114,7 +117,5 @@ Contributions to the Voice Assistant Project are welcome! If you'd like to contr
 
 For major changes, please open an issue first to discuss potential updates or improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
