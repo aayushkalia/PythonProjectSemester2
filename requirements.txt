@@ -1,0 +1,14 @@
+install the following packages:
+#copy the following commands and paste them directly in the terminal or the command shell
+pip install futures
+pip install pyttsx3
+pip install SpeechRecognition
+pip install wikipedia
+pip install webbrowser
+pip install random
+pip install pywhatkit
+pip install  pyautogui
+pip install requests
+pip install openai
+
+the other packages or modules used are already pre existing in the python library.
